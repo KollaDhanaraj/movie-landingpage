@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/KollaDhanaraj/movie-landingpage/static/css/main.bb830b12.css",
+    "main.js": "/KollaDhanaraj/movie-landingpage/static/js/main.2337b0db.js",
+    "static/js/453.28e56345.chunk.js": "/KollaDhanaraj/movie-landingpage/static/js/453.28e56345.chunk.js",
+    "static/media/PreWedding.avif": "/KollaDhanaraj/movie-landingpage/static/media/PreWedding.1ada10b770b1b529d56c.avif",
+    "static/media/Bahubali.avif": "/KollaDhanaraj/movie-landingpage/static/media/Bahubali.38f4a5ebe5770fd77561.avif",
+    "static/media/Assem.avif": "/KollaDhanaraj/movie-landingpage/static/media/Assem.e9be47cd90a2a6d3c838.avif",
+    "static/media/OG.avif": "/KollaDhanaraj/movie-landingpage/static/media/OG.14cd037d64baeaef587f.avif",
+    "static/media/Shiva.avif": "/KollaDhanaraj/movie-landingpage/static/media/Shiva.a3cb99cdc2cf919ade07.avif",
+    "static/media/Feb.avif": "/KollaDhanaraj/movie-landingpage/static/media/Feb.f0996474ae87734c97ef.avif",
+    "static/media/GirlFriend.avif": "/KollaDhanaraj/movie-landingpage/static/media/GirlFriend.befc5694de59275d3473.avif",
+    "static/media/Solo.avif": "/KollaDhanaraj/movie-landingpage/static/media/Solo.267182a96c8e35447529.avif",
+    "static/media/slick.svg": "/KollaDhanaraj/movie-landingpage/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/KollaDhanaraj/movie-landingpage/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/KollaDhanaraj/movie-landingpage/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/KollaDhanaraj/movie-landingpage/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/KollaDhanaraj/movie-landingpage/index.html",
+    "main.bb830b12.css.map": "/KollaDhanaraj/movie-landingpage/static/css/main.bb830b12.css.map",
+    "main.2337b0db.js.map": "/KollaDhanaraj/movie-landingpage/static/js/main.2337b0db.js.map",
+    "453.28e56345.chunk.js.map": "/KollaDhanaraj/movie-landingpage/static/js/453.28e56345.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb830b12.css",
+    "static/js/main.2337b0db.js"
+  ]
+}
